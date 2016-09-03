@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=TodoOrg
+Exec=qmlscene %U TodoOrg/Main.qml
+Icon=TodoOrg/TodoOrg.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

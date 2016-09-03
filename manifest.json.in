@@ -1,0 +1,17 @@
+{
+    "name": "todoorg.michael",
+    "description": "description of TodoOrg",
+    "architecture": "@CLICK_ARCH@",
+    "title": "TodoOrg",
+    "hooks": {
+        "TodoOrg": {
+            "apparmor": "TodoOrg/TodoOrg.apparmor",
+            "desktop":  "TodoOrg/TodoOrg.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Michael Rigaud <michael@mic-rigaud.fr>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+
+

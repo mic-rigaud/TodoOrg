@@ -1,0 +1,15 @@
+* TodoOrg Application
+
+** Description
+
+This project consist in create an application for Ubuntu Touch, which permit to manage todo task. But this application use org mode to read and write files which contains the tasks.
+
+You can download on your phone your todo.org file, and open them with this application
+
+** Author
+
+Michael Rigaud
+
+** License
+
+Under GPL v3 License
